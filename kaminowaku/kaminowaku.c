@@ -121,6 +121,8 @@ int kaminowaku (_carry_forward * _prog_data) {
                                 printf("< "); fflush(stdout);
                                 perror(NULL); errno = 0;
                         }
+                        // @@ This is where you could log to a file if you wanted to.
+                        // @@ You could also log in the command scanner at each case.
                         printf("< %s\n", _prog_data->cmd_output);
                         memset(_prog_data->cmd_output, 0x00, OUT_BLOCK);
                 }

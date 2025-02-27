@@ -1,4 +1,4 @@
-// Copyright 2025 Jamison A. Drapeau
+// Copyright (c) 2025, Jamison A. Drapeau
 #ifndef KAMINOWAKU_H_
 #define KAMINOWAKU_H_
 #include "data.h"

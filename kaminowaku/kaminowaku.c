@@ -1,4 +1,4 @@
-// Copyright 2025 Jamison A. Drapeau
+// Copyright (c) 2025, Jamison A. Drapeau
 #include "kaminowaku.h"
 #include "cmd_scan.h"
 #include <errno.h>

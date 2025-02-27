@@ -130,7 +130,7 @@ void cmd_scan (_carry_forward * _prog_data) {
                 /* e.g.
                 case X: // comment
                         // stuff
-                        strcat(_prog_data->cmd_output, "output\n");
+                        strcat(_prog_data->cmd_output, "output");
                         _prog_data->f_type = 1;
                         return;
                 */

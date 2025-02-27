@@ -129,7 +129,7 @@ int kaminowaku (_carry_forward * _prog_data) {
                 }
 
 
-                // @@ Prompt variations per f_type can be specified here if desired. (e.g. if 101, print "[context]> ")
+                // @@ Prompt variations can be specified here if desired. (e.g. "[context]> ")
                 printf("%s", _prog_data->prompt);
 
                 // Flush IO

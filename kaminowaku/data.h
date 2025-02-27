@@ -1,4 +1,3 @@
-// Copyright 2025 Jamison A. Drapeau
 #ifndef __DATA__H
 #define __DATA__H
 

@@ -1,3 +1,4 @@
+// Copyright (c) 2025, Jamison A. Drapeau
 #include "cmd_scan.h"
 #include <stdio.h>
 #include <stdlib.h>
